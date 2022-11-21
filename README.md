@@ -5,4 +5,7 @@ touch: Funciona para crear un archivos
 git add: mandar el archivo a la zona stagin
 git commit: para crear versiones.
 
+
 HOLA ESTA ES UNA MODIFICACION DE LA RAMA V0.2
+ESTO ES UNA MODIFICACION DE LA RAMA MAIN
+
